@@ -1,9 +1,19 @@
-/**
- * @purpose ISO8583 Message Pack/Unpack 
- * @link http://en.wikipedia.org/wiki/ISO_8583
- * @author Vikrant <vikrant@cuelogic.co.in>
- * @author Sagar <sagar@cuelogic.co.in>
- * @version 1.0
+/*
+ *	<iso8583 Message Pack & Unpack lib for Java. Works well with Android too. Supports:Tertiary Bitmap -> Subfields>
+ *  Copyright (C) 2013  Vikrant Labde <vikrant@cuelogic.co.in>
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 package ISO;
